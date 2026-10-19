@@ -2,8 +2,8 @@
 
 <!-- https://www.tcs-asia.org/en/data/publications.php?gubun=4 -->
 
-- 2014，东北亚名人会，《中日韩共同常用八百汉字表》
-    - [ ] 2013，第八届东北亚名人会，《中日韩共用常见八百汉字表草案》
+- 2014，东北亚名人会（中国扬州），《中日韩共同常用八百汉字表》
+    - [ ] 2013，第八届东北亚名人会（日本北海道洞爷湖町），《中日韩共用常见八百汉字表草案》（通用八百基础汉字草案）
     - [x] 中日韩常用808汉字手册 / Booklet of the 808 Commonly Used Chinese Characters in China, Japan and the ROK
 - 中日韩共用汉字词典 / Trilateral Common Vocabulary Dictionary
     - [ ] 2018年，第一版
